@@ -1,4 +1,6 @@
-### Hi there 👋
+Hola mi nombre es Simmers Leonardo
+Estoy estudiando el curso de fundamentos en programacion web
+tengo 14 años.
 
 <!--
 **Simmers08/Simmers08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
